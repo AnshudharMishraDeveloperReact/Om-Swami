@@ -1,0 +1,6 @@
+module Pods_Om_OmTests {
+  umbrella header "Pods-Om-OmTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

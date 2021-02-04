@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Om.iml" filepath="$PROJECT_DIR$/.idea/modules/Om.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Om.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Om.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1821222736/Om.react-native-android-location-enabler.iml" filepath="$PROJECT_DIR$/.idea/modules/1821222736/Om.react-native-android-location-enabler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1404165649/Om.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1404165649/Om.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1323416843/Om.react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/1323416843/Om.react-native-community_geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/390672556/Om.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/390672556/Om.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1530348117/Om.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1530348117/Om.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/889799560/Om.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/889799560/Om.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1686060655/Om.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1686060655/Om.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1134356652/Om.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1134356652/Om.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/224383084/Om.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/224383084/Om.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>
